@@ -2,4 +2,4 @@ FROM eu.gcr.io/gitpod-core-dev/registry/workspace-images:3eda66b5ef61b38286480ad
 
 RUN echo "Hola stargz 🎉"
 
-RUN sleep 60
+RUN sleep 50
